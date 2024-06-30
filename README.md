@@ -5,7 +5,7 @@
 1. Clone this repository to your local machine using Git
 
    ```
-   https://github.com/muhammadafshal404/task-backend-expressjs.git
+   https://github.com/muhammadafshal404/node-typescript-task.git
    ```
 
 2. Navigate to the project directory
